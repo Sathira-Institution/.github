@@ -1,6 +1,7 @@
 # SATHIRA Institution
 
 > Practical, accountable, and open technology for everyone.
+![Uploading banner.png…]()
 
 ![SATHIRA — stable intelligence serving humanity](assets/banner.png)
 
