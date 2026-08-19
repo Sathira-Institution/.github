@@ -50,6 +50,15 @@ Our approach is therefore simple:
 
 ---
 
+## How We Work
+
+```mermaid
+flowchart LR
+    A["Understand"] --> B["Explore"] --> C["Build"] --> D["Test"] --> E["Learn"] --> F["Share"]
+    F -. "lessons learned" .-> A
+    
+```
+
 ## Research & Projects
 
 SATHIRA develops and supports projects that explore practical ways of applying technology for useful outcomes.
@@ -63,6 +72,20 @@ An open framework exploring practical approaches to AI governance, validation, a
 
 ### GSIM — Global Situational Intelligence Mesh
 A related research initiative exploring how situational intelligence, context, information, and governance can support better human understanding and decision-making.
+
+## Research Portfolio
+
+```mermaid
+flowchart TD
+    S["SATHIRA Institution<br/>independent knowledge & research institution"]
+    S --> U["UAGF<br/>practical approaches to AI governance"]
+    S --> G["GSIM<br/>situational understanding for better decisions"]
+    S --> X["further research<br/>documented as it matures"]
+    U --> P["open knowledge<br/>for public benefit"]
+    G --> P
+    X --> P
+
+```
 
 Projects and terminology may evolve as research progresses. The repositories themselves contain the detailed technical material, documentation, and development history.
 
