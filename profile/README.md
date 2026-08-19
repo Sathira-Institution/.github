@@ -2,6 +2,8 @@
 
 > Practical, accountable, and open technology for everyone.
 
+![SATHIRA — stable intelligence serving humanity](assets/banner.png)
+
 **SATHIRA Institution** is an independent initiative focused on helping people understand, explore, and use technology in ways that are useful, appropriate, and responsible.
 
 We believe good technology should not be difficult to understand or limited to those who already have technical expertise.
